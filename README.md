@@ -1,4 +1,4 @@
-# Motion OS
+# Motion Studio
 
 **Ask Claude for a motion graphic. Review it scene by scene in a local player. Send your changes back in one prompt.**
 
